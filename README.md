@@ -54,7 +54,7 @@ me.say_hi()
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
@@ -76,7 +76,10 @@ me.say_hi()
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<!-- Animated Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Connect & Learn More
 
@@ -86,8 +89,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-### 🎯 Stay Updated with My Mission 
-Subscribe to follow my journey and mission on Earth!
+
 
 </div>
 
@@ -126,21 +128,7 @@ Subscribe to follow my journey and mission on Earth!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
 
-<!-- Cool ASCII Art Banner -->
-```ascii
- ██████╗██╗   ██╗██████╗ ███████╗██████╗     ██╗  ██╗███████╗██████╗  ██████╗ 
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██║  ██║██╔════╝██╔══██╗██╔═══██╗
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████║█████╗  ██████╔╝██║   ██║
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██╔══██║██╔══╝  ██╔══██╗██║   ██║
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ██║  ██║███████╗██║  ██║╚██████╔╝
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
-```
-
-## 🌟 My Journey
-
-In 2024, guided by divine inspiration 🤲, I embarked on an extraordinary journey into the realm of cybersecurity and programming.
 
 <!-- Animated Skill Icons -->
 <p align="center">
@@ -162,11 +150,6 @@ class CyberSecurityJourney:
 me = CyberSecurityJourney()
 me.say_hi()
 ```
-
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ## 🎬 Notable Achievements
 
@@ -192,9 +175,5 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </p>
 
-<!-- Dynamic Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
 
 </div>
