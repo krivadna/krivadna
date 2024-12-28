@@ -39,8 +39,7 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 ## 🎬 Notable Projects
 
-### Xenon: AI Film Project
-- Created "Xenon: A Malevolent AI vs Aura, His Adversary"
+### USAF: AI Film Project
 - Commissioned by USAF Cybersecurity Department
 - Used for CTF competition
 
@@ -60,7 +59,7 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)!]
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)
 
 
 
@@ -80,18 +79,9 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 <!-- Profile Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Github Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=krivadna&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Github Trophy"/>
   </a>
 </p>
-
-<!-- Animated Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 <!-- Animated Skill Icons -->
 <p align="center">
