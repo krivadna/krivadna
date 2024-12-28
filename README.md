@@ -81,14 +81,6 @@ me = CyberSecurityJourney()
 me.say_hi()
 ```
 
-## 🎬 Notable Achievements
-
-<!-- Gradient Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/USAF_Project-Xenon_AI_Film-gradient?style=for-the-badge&logo=apple-arcade&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug_Hunter-PayPal_&_Microsoft-gradient?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
 <!-- 3D Contribution Calendar -->
 ![3D Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=krivadna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
