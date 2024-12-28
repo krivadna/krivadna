@@ -35,9 +35,12 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 ## 📈 Contribution Graph
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
 
+</div>
 </div>
 
 ## 🎬 Notable Projects
