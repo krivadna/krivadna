@@ -8,18 +8,13 @@
 
 My cybersecurity journey began In 2024  when I felt God wanted me to learn coding and programming. I created a short AI film titled Xenon: A Malevolent AI vs Aura, His Adversary, which caught the attention of an officer from the United States Air Force cybersecurity department on linkedin and Facebook. He mentioned they were looking for something similar for their Capture the Flag competition and commissioned me to create an Ai film for USAF. That opportunity marked the beginning of my journey. Guided by my Guru and Guru of Jesus Christ in Mahavatar Babaji who initiated many Wordly scientists and lastly bill gates to create satellites and supercomputers. I started learning all by myself found bugs in paypal and Microsoft and finally  built a cybersecurity related website focused on Digital footprinting, surveillance and IP intelligence, AI powered network security protocols and cybersecurity related tools, scripts and solutions, entirely on an Android tablet with help of AI using Termux. You can explore it here: https://kalkikrivadna.com and also subscribe to remain tuned to my fight and Mission on Earth. 
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/krivadna)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)](https://github.com/krivadna)
+[![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)
+[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
 
-</div>
-
-<div align="center">
-  <img src="/api/placeholder/800/300" alt="banner" />
 </div>
 
 ## 🌟 The Beginning of My Path 🌟
 
-<img align="right" width="400" src="/api/placeholder/400/320" alt="Cybersecurity Journey">
 
 In 2024, guided by divine inspiration 🤲, I embarked on an extraordinary journey into the realm of cybersecurity and programming. This path would lead me to unexpected opportunities and remarkable achievements.
 
@@ -92,14 +87,6 @@ me.say_hi()
 
 </div>
 
----
-
-
-    
-### 📝 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 <div align="center">
 
@@ -159,7 +146,7 @@ me.say_hi()
 </p>
 
 <!-- 3D Contribution Calendar -->
-![3D Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![3D Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=krivadna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ## 🌐 Connect With Me
 
