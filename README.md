@@ -86,8 +86,7 @@ me = CyberSecurityJourney()
 me.say_hi()
 ```
 
-<!-- 3D Contribution Calendar -->
-![3D Contribution Calendar](https://activity-graph.herokuapp.com/graph?username=krivadna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
 
 ## 🌐 Connect With Me
 
