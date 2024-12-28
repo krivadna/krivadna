@@ -55,17 +55,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Connect & Learn More
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)
-
-
-
-</div>
-
-
 <div align="center">
 
 <!-- Animated Skill Icons -->
