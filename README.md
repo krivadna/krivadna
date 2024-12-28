@@ -60,9 +60,7 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)!]
 
 
 
@@ -94,8 +92,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </div>
-
-
 
 <!-- Animated Skill Icons -->
 <p align="center">
