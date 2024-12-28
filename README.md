@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <a href="https://discord.gg/krivadna">
+  <a href="https://discord.com/users/kalkikrivadna">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 </div>
