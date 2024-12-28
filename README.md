@@ -58,7 +58,6 @@ me.say_hi()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=yourusername&layout=compact&theme=radical)](https://github.com/krivadna)
 
 </div>
 
@@ -71,8 +70,8 @@ me.say_hi()
 
 ### 🛡️ Security Achievements
 - Discovered vulnerabilities in PayPal and Microsoft platforms
-- Developed comprehensive cybersecurity solutions
-- Built everything using just an Android tablet with Termux!
+- Developed comprehensive fingerprinting, network security tools
+- Built my website using just an Android tablet with Termux!
 
 ## 📈 Contribution Graph
 
