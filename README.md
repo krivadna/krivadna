@@ -68,13 +68,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 <div align="center">
 
-<!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+The+Cybersecurity+Journey+✨;🔐+Security+Researcher+🔐;🌟+Bug+Hunter+🌟)](https://git.io/typing-svg)
-
-<!-- Animated Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header&animation=twinkling"/>
-</p>
 
 <!-- Profile Trophy -->
 <p align="center">
