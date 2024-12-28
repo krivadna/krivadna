@@ -68,14 +68,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 <div align="center">
 
-
-<!-- Profile Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krivadna&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Github Trophy"/>
-  </a>
-</p>
-
 <!-- Animated Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git" />
