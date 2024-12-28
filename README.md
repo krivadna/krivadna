@@ -32,6 +32,9 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
 
+
+## 📈 Contribution Graph
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
 
@@ -47,8 +50,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 - Discovered vulnerabilities in PayPal and Microsoft platforms
 - Developed comprehensive fingerprinting, network security tools
 - Built my website using just an Android tablet with Termux!
-
-## 📈 Contribution Graph
 
 <!-- Animated Snake -->
 <div align="center">
