@@ -41,6 +41,7 @@ class CyberSecurityJourney:
 me = CyberSecurityJourney()
 me.say_hi()
 ```
+
 ## 🚀 Tech Stack & Tools
 
 <div align="center">
@@ -62,11 +63,13 @@ me.say_hi()
 
 </div>
 
+
 ## 📊 GitHub Stats
 
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
+
 
 
 ## 📈 Contribution Graph
