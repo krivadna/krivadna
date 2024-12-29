@@ -46,9 +46,11 @@ me.say_hi()
 ```
 
 > *"In the depths of code lies the path to digital enlightenment"* 
-In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
+
 
 ## 🎬 Genesis: The Spark The Beginning  
+In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
+
 My journey ignited with an AI-powered narrative: One of my first creations was an AI short film titled:  
 **"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖
 
