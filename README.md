@@ -14,7 +14,7 @@
 </div>
 
 
-# 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
+# 🌐 Digital Awakening ⚡
 
 > *"In the depths of code lies the path to digital enlightenment"*
 
