@@ -16,7 +16,7 @@
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 
-*"In the depths of code lies the path to digital enlightenment"*
+> *"In the depths of code lies the path to digital enlightenment"*
 
 <!-- Matrix Footer -->
 ![Matrix Footer](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete)
