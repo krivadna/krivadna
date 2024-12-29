@@ -60,17 +60,17 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 
 ### USAF: AI Film Project
 
-  <!-- YouTube Link -->
-  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
+<!-- YouTube Link -->
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
 ### 🛡️ Security Achievements
 - Discovered vulnerabilities in PayPal and Microsoft platforms
 - Developed comprehensive fingerprinting, network security tools
 - Built my website using just an Android tablet with Termux!
 
-  <a href="https://kalkikrivadna.com">
-    <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<a href="https://kalkikrivadna.com">
+<img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <!-- Animated Snake -->
 <div align="center">
@@ -101,8 +101,6 @@ me.say_hi()
 ```
 
 ## 🌐 Connect With Me
-
-
 
 <!-- Animated Footer -->
 <p align="center">
