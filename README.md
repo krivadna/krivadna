@@ -67,7 +67,11 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 - Discovered vulnerabilities in PayPal and Microsoft platforms
 - Developed comprehensive fingerprinting, network security tools
 - Built my website using just an Android tablet with Termux!
-
+<div align="center">
+  <a href="https://kalkikrivadna.com">
+    <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
 <!-- Animated Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -98,11 +102,7 @@ me.say_hi()
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://kalkikrivadna.com">
-    <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</div>
+
 
 <!-- Animated Footer -->
 <p align="center">
