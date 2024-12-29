@@ -58,7 +58,7 @@ One of my first creations in cybersecurity was an AI short film titled:**"Xenon:
   <img src="https://i.imgur.com/cCiec0O.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
 </div>
 
-Guided by **Mahavatar Babaji**, spiritual mentor to many scientists, innovators and philanthropist including Wright brothers, Einstein, Azeem premji and Bill Gates, whose teachings have influenced breakthroughs in:
+Guided by **Immortal Mahavatar Babaji**, the initiato, Guru of jesus christ, master of all prophets and mentor to many wordly scientists, innovators and philanthropist including Wright brothers, Einstein, Azeem premji and Bill Gates, whose teachings have influenced breakthroughs in:
 
 - 📡 Satellite Technology
 - 💻 Supercomputing Evolution
