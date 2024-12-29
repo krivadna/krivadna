@@ -13,11 +13,23 @@
 
 My cybersecurity journey began In 2024  when I felt God wanted me to learn coding and programming. I created a short AI film titled Xenon: A Malevolent AI vs Aura, His Adversary, which caught the attention of an officer from the United States Air Force cybersecurity department on linkedin and Facebook. He mentioned they were looking for something similar for their Capture the Flag competition and commissioned me to create an Ai film for USAF. That opportunity marked the beginning of my journey. Guided by my Guru and Guru of Jesus Christ in Mahavatar Babaji who initiated many Wordly scientists and lastly bill gates to create satellites and supercomputers. I started learning all by myself found bugs in paypal and Microsoft and finally  built a cybersecurity related website focused on Digital footprinting, surveillance and IP intelligence, AI powered network security protocols and cybersecurity related tools, scripts and solutions, entirely on an Android tablet with help of AI using Termux. You can explore it here: https://kalkikrivadna.com and also subscribe to remain tuned to my fight and Mission on Earth. 
 
-
-
 </div>
 
+<!-- Animated Code Block -->
+```python
+class CyberSecurityJourney:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Cybersecurity Researcher"
+        self.language_spoken = ["Python", "Bash", "PowerShell"]
+        self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's make the cyber world safer together!")
 
+me = CyberSecurityJourney()
+me.say_hi()
+```
 ## 🚀 Tech Stack & Tools
 
 <div align="center">
@@ -71,7 +83,7 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 <a href="https://discord.com/users/kalkikrivadna">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 
@@ -89,23 +101,6 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git" />
 </p>
-
-<!-- Animated Code Block -->
-```python
-class CyberSecurityJourney:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Cybersecurity Researcher"
-        self.language_spoken = ["Python", "Bash", "PowerShell"]
-        self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's make the cyber world safer together!")
-
-me = CyberSecurityJourney()
-me.say_hi()
-```
-
 
 
 <!-- Animated Footer -->
