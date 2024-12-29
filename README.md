@@ -26,9 +26,6 @@
 
 In **2024**, I embarked on a cybersecurity journey inspired by a profound belief that **God wanted me to learn coding and programming**.  
 
-## The Beginning  
-One of my first creations was an AI short film titled:  
-**"Xenon: A Malevolent AI vs Aura, His Adversary"**  
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 
@@ -36,14 +33,13 @@ One of my first creations was an AI short film titled:
 
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
-## 🎬 Genesis: The Spark
-My journey ignited with an AI-powered narrative:
+## 🎬 Genesis: The Spark The Beginning  
+My journey ignited with an AI-powered narrative: One of my first creations was an AI short film titled:  
 **"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖
 
 This creation opened doors I never imagined:
 - 🎯 Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
-- 🔒 Selected for their **Capture The Flag (CTF)** competition
-- 🎥 Commissioned to produce an **AI film** for the United States Air Force
+- 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition
 
 ## 🕉️ Spiritual Foundations
 Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Gates, whose teachings have influenced breakthroughs in:
@@ -111,19 +107,12 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
-
-
 
 ## 📈 Contribution Graph
 
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
-
-
 
 
 ## 🎬 Notable Projects
