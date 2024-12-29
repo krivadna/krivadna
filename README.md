@@ -115,14 +115,12 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 
 ###  Website Highlights  
 
-The website, [**kalkikrivadna.com**](https://kalkikrivadna.com), focuses on:  
 - **Digital Footprinting**  
 - **Surveillance and IP Intelligence**  
 - **AI-Powered Network Security Protocols**  
 - **Cybersecurity tools, scripts, and solutions**  
 
-Feel free to explore and subscribe to stay updated on my **fight and mission on Earth**.
-<a href="https://kalkikrivadna.com">
+Feel free to explore and subscribe to stay updated on my **fight and mission on Earth** <a href="https://kalkikrivadna.com">
 <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
