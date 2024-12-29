@@ -2,8 +2,6 @@
 
 # ✨ My Cybersecurity Journey ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
-
 <p align="center">
   
   <a href="https://discord.com/users/kalkikrivadna">
@@ -102,6 +100,7 @@ me.say_hi()
 
 ## 🌐 Connect With Me
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
