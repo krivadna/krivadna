@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Cyber+Kalki+Matrix+...;Executing+Programs...;Algorithm+Complete" alt="Matrix">
-</div>
+
 
 
 ![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
@@ -15,7 +13,9 @@
 # 🌐 Digital Awakening ⚡
 
 > *"In the depths of code lies the path to digital enlightenment"*
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Cyber+Kalki+Matrix+...;Executing+Programs...;Algorithm+Complete" alt="Matrix">
+</div>
 ```python
 
 class CyberSecurityJourney:
