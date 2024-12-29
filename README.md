@@ -46,13 +46,6 @@ me = CyberSecurityJourney()
 me.say_hi()
 ```
 
-
-
-
-
-
-# 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
-
 ## 🎬 Genesis: The Beginning
 
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
@@ -97,12 +90,12 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
-## 🎬 Notable Projects
+## 💫 Self-Made Success
 
 ### USAF: AI Film Project
 [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
-## 💫 Self-Made Success
+
 
 ### 🛡️ Security Achievements
 - Self-taught coding prodigy
