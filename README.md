@@ -22,7 +22,38 @@
 <img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete" alt="Matrix Footer"/>
 </p>
 </div>
+# My Cybersecurity Journey  
 
+In **2024**, I embarked on a cybersecurity journey inspired by a profound belief that **God wanted me to learn coding and programming**.  
+
+## The Beginning  
+One of my first creations was an AI short film titled:  
+**"Xenon: A Malevolent AI vs Aura, His Adversary"**  
+
+This project gained significant attention and led to an incredible opportunity:  
+
+- An officer from the **United States Air Force Cybersecurity Department** discovered my work on LinkedIn and Facebook.  
+- They were searching for something similar for their **Capture the Flag (CTF)** competition.  
+- I was commissioned to create an **AI film** for the USAF.  
+
+This milestone marked the official start of my cybersecurity career.  
+
+## Guided by Spiritual Inspiration  
+I credit my spiritual guide, **Mahavatar Babaji**, the Guru of Jesus Christ, who has inspired countless scientists, including Bill Gates, to innovate in fields like **satellites** and **supercomputers**.  
+
+## Self-Learning and Achievements  
+- Taught myself coding and cybersecurity skills with determination.  
+- Found bugs in platforms like **PayPal** and **Microsoft**.  
+- Built a **cybersecurity-focused website** entirely on an Android tablet using AI and **Termux**.  
+
+## Website Highlights  
+The website, [**kalkikrivadna.com**](https://kalkikrivadna.com), focuses on:  
+- **Digital Footprinting**  
+- **Surveillance and IP Intelligence**  
+- **AI-Powered Network Security Protocols**  
+- Cybersecurity tools, scripts, and solutions  
+
+Feel free to explore and subscribe to stay updated on my **fight and mission on Earth**.
 
 
 </div>
