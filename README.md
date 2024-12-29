@@ -98,7 +98,7 @@ Guided by **Mahavatar Babaji**, spiritual mentor to many scientists, innovators 
 ## 💫 Self-Made Success
 
 ### USAF: AI Film Project
-[![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
