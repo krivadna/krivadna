@@ -27,7 +27,6 @@
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 
 > *"In the depths of code lies the path to digital enlightenment"* 
-
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
 ## 🎬 Genesis: The Spark The Beginning  
