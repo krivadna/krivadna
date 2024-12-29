@@ -1,5 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing;Building+the+Future+with+Code)](https://git.io/typing-svg)
+
 # ✨ My Cybersecurity Journey ✨
 
 <p align="center">
