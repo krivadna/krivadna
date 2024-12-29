@@ -108,8 +108,6 @@ me.say_hi()
 </a>
 
 <!-- Animated Footer -->
-<p align="center">
-  
-</p>
+
 
 </div>
