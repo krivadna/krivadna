@@ -97,3 +97,10 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
+<!-- Animated Footer -->
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1" width="100%"/>
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
