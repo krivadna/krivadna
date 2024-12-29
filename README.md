@@ -14,7 +14,8 @@
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 *"In the depths of code lies the path to digital enlightenment"*
-
+<!-- Matrix Footer -->
+![Matrix Footer](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete)
 ```python
 class CyberSecurityJourney:
     def __init__(self):
@@ -92,13 +93,9 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
-<!-- Matrix Footer -->
-![Matrix Footer](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete)
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
-
-<!-- Divider -->
 
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
