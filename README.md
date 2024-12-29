@@ -48,6 +48,9 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - 💻 Supercomputing Evolution
 - 🌐 Digital Innovation
 
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 ## 🚀 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -70,16 +73,25 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 ## 📈 Contribution Graph
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 ## 💫 Self-Made Success
 
 ### USAF: AI Film Project
 [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
+
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ### 🛡️ Security Achievements
 - 🏆 PayPal Bug Bounty Hunter ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 - 🎯 Microsoft Security Researcher ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 - 💻 Self-taught coding prodigy
 - 🛠️ Built cybersecurity platform on Android/Termux
+
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ### Website Highlights
 - **Digital Footprinting**
@@ -88,7 +100,8 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - **Cybersecurity tools, scripts, and solutions**
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com)
-
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
