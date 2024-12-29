@@ -10,6 +10,7 @@
   
 </div>
 
+
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 *"In the depths of code lies the path to digital enlightenment"*
 <!-- Matrix Footer -->
@@ -64,6 +65,9 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
