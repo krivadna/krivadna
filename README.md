@@ -1,3 +1,15 @@
+<!-- Animated Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+
+<!-- Animated Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git" />
+</p>
+
 <div align="center">
 
 # ✨ My Cybersecurity Journey ✨
@@ -90,17 +102,7 @@ me.say_hi()
 <a href="https://t.me/+mt89ex-DKJlkNDBl">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-
-<!-- Animated Skill Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git" />
-</p>
 
 
 <!-- Animated Footer -->
