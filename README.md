@@ -33,6 +33,9 @@ me.say_hi()
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ## 🎬 Genesis: The Beginning
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/jUzaB82LbUA?si=diLc56v_Bkr-Qx1S)
+
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
 My journey ignited with an AI-powered narrative:
@@ -43,8 +46,6 @@ This creation opened doors I never imagined:
 - 🎯 Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
 - 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition.
 
-  
-[![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/jUzaB82LbUA?si=diLc56v_Bkr-Qx1S)
   
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
