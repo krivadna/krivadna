@@ -9,7 +9,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
   
 </div>
-
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 *"In the depths of code lies the path to digital enlightenment"*
@@ -29,7 +30,8 @@ class CyberSecurityJourney:
 me = CyberSecurityJourney()
 me.say_hi()
 ```
-
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 ## 🎬 Genesis: The Beginning
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
