@@ -61,6 +61,8 @@ My cybersecurity journey began In 2024  when I felt God wanted me to learn codin
 ### USAF: AI Film Project
 - Commissioned by USAF Cybersecurity Department
 - Used for CTF competition
+-   <!-- YouTube Link -->
+  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
 ### 🛡️ Security Achievements
 - Discovered vulnerabilities in PayPal and Microsoft platforms
