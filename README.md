@@ -1,40 +1,18 @@
-<p align="center">
-  <img src="header.svg" alt="Cybersecurity Journey">
-</p>                    
+![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![Skills](https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git)
 
-<div align="center">
-
-<!-- Animated Skill Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git" />
-</p>
-
-<div align="center">
-
-<p align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
-  [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
+[![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)
 [![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
-<img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete" alt="Matrix Footer"/>
-</p>
-</div>
-
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
-> *"In the depths of code lies the path to digital enlightenment"* 
-
-<!-- Animated Code Block -->
+*"In the depths of code lies the path to digital enlightenment"*
 
 ```python
 class CyberSecurityJourney:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Kalki Krivadna"
         self.role = "Cybersecurity Researcher"
         self.language_spoken = ["Python", "Bash", "PowerShell"]
         self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
@@ -47,7 +25,6 @@ me.say_hi()
 ```
 
 ## 🎬 Genesis: The Beginning
-
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
 My journey ignited with an AI-powered narrative:
@@ -59,14 +36,12 @@ This creation opened doors I never imagined:
 - 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition
 
 ## 🕉️ Spiritual Foundations
-
 Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Gates, whose teachings have influenced breakthroughs in:
 - 📡 Satellite Technology
 - 💻 Supercomputing Evolution
 - 🌐 Digital Innovation
 
 ## 🚀 Tech Stack & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -83,11 +58,9 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
 
 ## 📈 Contribution Graph
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
 ## 💫 Self-Made Success
@@ -95,13 +68,11 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 ### USAF: AI Film Project
 [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
-
-
 ### 🛡️ Security Achievements
-- Self-taught coding prodigy
-- PayPal vulnerability discoveries
-- Microsoft security contributions
-- Built cybersecurity platform on Android tablet using Termux
+- 🏆 PayPal Bug Bounty Hunter ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+- 🎯 Microsoft Security Researcher ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+- 💻 Self-taught coding prodigy
+- 🛠️ Built cybersecurity platform on Android/Termux
 
 ### Website Highlights
 - **Digital Footprinting**
@@ -109,21 +80,14 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - **AI-Powered Network Security Protocols**
 - **Cybersecurity tools, scripts, and solutions**
 
-<a href="https://kalkikrivadna.com">
-<img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com)
 
 ### 🌐 Connect With Me
-<a href="https://discord.com/users/kalkikrivadna">
-<img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
-</a>
-<a href="https://t.me/+mt89ex-DKJlkNDBl">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
-<!-- Animated Footer -->
+<!-- Matrix Footer -->
+![Matrix Footer](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete)
+
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1" width="100%"/>
-
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
