@@ -60,9 +60,6 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - 💻 Supercomputing Evolution
 - 🌐 Digital Innovation
 
-## 💫 Self-Made Success
-
-
 </div>
 
 
@@ -99,7 +96,7 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
 
-## 🎬 Notable Projects
+## 🎬 Notable Projects ## 💫 Self-Made Success
 
 ### USAF: AI Film Project
 
@@ -111,7 +108,6 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - PayPal vulnerability discoveries
 - Microsoft security contributions
 - Built cybersecurity platform on Android tablet using Termux
-
 
 ###  Website Highlights  
 
