@@ -22,9 +22,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete" alt="Matrix Footer"/>
 </p>
 </div>
-# My Cybersecurity Journey  
-
-In **2024**, I embarked on a cybersecurity journey inspired by a profound belief that **God wanted me to learn coding and programming**.  
 
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
