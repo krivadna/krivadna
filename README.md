@@ -34,8 +34,7 @@ class CyberSecurityJourney:
 me = CyberSecurityJourney()
 me.say_hi()
 ```
-<!-- Divider -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 
 ## 🎬 Genesis: The Beginning
 
