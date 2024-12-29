@@ -57,6 +57,7 @@ One of my first creations was an AI short film titled:**"Xenon: A Malevolent AI 
 <div align="center">
   <img src="https://i.imgur.com/cCiec0O.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
 </div>
+
 Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Gates, whose teachings have influenced breakthroughs in:
 - 📡 Satellite Technology
 - 💻 Supercomputing Evolution
