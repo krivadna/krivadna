@@ -120,7 +120,7 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - **AI-Powered Network Security Protocols**  
 - **Cybersecurity tools, scripts, and solutions**  
 
-Feel free to explore and subscribe to stay updated on my **fight and mission on Earth** <a href="https://kalkikrivadna.com">
+<a href="https://kalkikrivadna.com">
 <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
