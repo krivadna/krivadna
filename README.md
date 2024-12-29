@@ -9,8 +9,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
   
 </div>
-<!-- Divider -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 *"In the depths of code lies the path to digital enlightenment"*
@@ -32,6 +31,7 @@ me.say_hi()
 ```
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 ## 🎬 Genesis: The Beginning
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
 
@@ -42,6 +42,8 @@ One of my first creations was an AI short film titled:
 This creation opened doors I never imagined:
 - 🎯 Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
 - 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ## 🕉️ Spiritual Foundations
 Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Gates, whose teachings have influenced breakthroughs in:
