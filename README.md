@@ -27,6 +27,7 @@
 
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
+> *"In the depths of code lies the path to digital enlightenment"* 
 
 <!-- Animated Code Block -->
 
@@ -45,7 +46,6 @@ me = CyberSecurityJourney()
 me.say_hi()
 ```
 
-> *"In the depths of code lies the path to digital enlightenment"* 
 
 
 ## 🎬 Genesis: The Spark The Beginning  
