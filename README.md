@@ -1,4 +1,6 @@
-                    
+<p align="center">
+  <img src="header.svg" alt="Cybersecurity Journey">
+</p>                    
 
 <!-- Animated Snake -->
 <div align="center">
