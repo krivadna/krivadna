@@ -2,6 +2,7 @@
   <p align="center">
   <img src="header.svg" alt="Cybersecurity Journey">
 </p>
+  
   ![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
   
   ![Skills](https://skillicons.dev/icons?i=python,bash,linux,vim,vscode,git)
