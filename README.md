@@ -113,8 +113,5 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
 
-<!-- Divider -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
-
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
