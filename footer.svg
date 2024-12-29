@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200">
+    <!-- Background with gradient -->
+    <defs>
+        <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#000B18;stop-opacity:1" />
+            <stop offset="50%" style="stop-color:#001F3F;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#000B18;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="200" fill="url(#cyber-gradient)"/>
+    
+    <!-- Grid lines -->
+    <g stroke="#00A6ED" stroke-width="0.5" opacity="0.3">
+        <path d="M0 40 H1200">
+            <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite"/>
+        </path>
+        <path d="M0 80 H1200">
+            <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite" begin="1s"/>
+        </path>
+        <path d="M0 120 H1200">
+            <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite" begin="2s"/>
+        </path>
+        <path d="M0 160 H1200">
+            <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite" begin="3s"/>
+        </path>
+    </g>
+    
+    <!-- Circuit paths -->
+    <path d="M50,100 L150,100 L200,150 L1000,150 L1050,100 L1150,100" 
+          fill="none" 
+          stroke="#00FF00" 
+          stroke-width="2">
+        <animate attributeName="stroke-dasharray" values="0,1200;1200,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Glowing dots -->
+    <circle cx="50" cy="100" r="4" fill="#00FF00">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="100" r="4" fill="#00FF00">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    
+    <!-- Center text -->
+    <text x="600" y="110" 
+          font-family="monospace" 
+          font-size="20" 
+          fill="#00FF00" 
+          text-anchor="middle">SYSTEM STATUS: ONLINE
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Decorative elements -->
+    <rect x="270" y="90" width="40" height="20" fill="none" stroke="#00A6ED" stroke-width="1">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="890" y="90" width="40" height="20" fill="none" stroke="#00A6ED" stroke-width="1">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </rect>
+</svg>
