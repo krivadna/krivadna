@@ -101,11 +101,12 @@ me.say_hi()
 ## 🌐 Connect With Me
 <a href="https://discord.com/users/kalkikrivadna">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    
     [![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
+    
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </p>
-
 
 </div>
