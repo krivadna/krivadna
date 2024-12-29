@@ -91,8 +91,9 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 ### 🛡️ Security Achievements
-- 🏆 PayPal Bug Bounty Hunter ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-- 🎯 Microsoft Security Researcher ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+ ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+- 🎯 Microsoft Security Researcher
+- 🏆 PayPal Bug Bounty Hunter
 - 💻 Self-taught coding prodigy
 - 🛠️ Built cybersecurity platform on Android/Termux
 
