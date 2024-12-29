@@ -15,7 +15,9 @@
 
 
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
+
 *"In the depths of code lies the path to digital enlightenment"*
+
 <!-- Matrix Footer -->
 ![Matrix Footer](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete)
 ```python
@@ -41,10 +43,9 @@ me.say_hi()
 
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀 My journey ignited with an AI-powered narrative:
 
-One of my first creations was an AI short film titled:**"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖
+One of my first creations was an AI short film titled:**"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖 This creation opened doors I never imagined:
 
-This creation opened doors I never imagined:
-- 🎯 Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
+- 🎯I was Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
 - 🎥 Commissioned to produce an **AI film** for the United States Air Force for their annual **Capture The Flag (CTF)** competition.
 
   
