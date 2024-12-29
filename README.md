@@ -7,7 +7,6 @@
   ![Matrix](https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Cyber+Kalki+Matrix+...;Executing+Programs...;Algorithm+Complete)
   </p>
 
-</div>
 
 ![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
