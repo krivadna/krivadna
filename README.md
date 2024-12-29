@@ -109,6 +109,12 @@ me.say_hi()
 
 
 <!-- Animated Footer -->
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile od Cyber Kalki;Ai Security+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing;Building+the+Future+with+Code)](https://git.io/typing-svg)
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:000B18,100:001F3F&section=footer" width="100%"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=SYSTEM+STATUS%3A+ONLINE" alt="Footer Status" />
+</div>
