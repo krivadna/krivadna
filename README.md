@@ -113,7 +113,7 @@ Guided by **Mahavatar Babaji**, spiritual mentor to many scientists, innovators 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
-### Website Highlights
+### 📱 My Website Highlights
 - **Digital Footprinting**
 - **Surveillance and IP Intelligence**
 - **AI-Powered Network Security Protocols**
