@@ -1,5 +1,5 @@
 
-    <img src="header.svg" alt="Cybersecurity Journey">
+<img src="header.svg" alt="Cybersecurity Journey">
   
 
 <p align="center">
