@@ -38,11 +38,12 @@ In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration
 My journey ignited with an AI-powered narrative:
 One of my first creations was an AI short film titled:  
 **"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖
-[![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/jUzaB82LbUA?si=diLc56v_Bkr-Qx1S)
 
 This creation opened doors I never imagined:
 - 🎯 Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
-- 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition
+- 🎥 Commissioned to produce an **AI film** for the United States Air Force for their **Capture The Flag (CTF)** competition.
+[![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/jUzaB82LbUA?si=diLc56v_Bkr-Qx1S)
+  
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
