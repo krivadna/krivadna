@@ -113,9 +113,4 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1" width="100%"/>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:000B18,100:001F3F&section=footer" width="100%"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=SYSTEM+STATUS%3A+ONLINE" alt="Footer Status" />
-</div>
-<img src="YOUR-HOSTED-SVG-URL" width="100%" alt="Cyberpunk Footer" />
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
