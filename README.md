@@ -108,7 +108,7 @@ me.say_hi()
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=150&section=footer&text=Code%20Matrix&fontColor=00FF00&fontSize=20&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Matrix%20Footer&fontColor=00FF00&fontSize=20&height=100&animation=fadeIn&desc=Powered%20by%20Code&descAlignY=70&descAlign=50&descSize=15"/>
 </p>
 
 </div>
