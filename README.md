@@ -24,7 +24,25 @@
 </div>
 
 
+
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
+
+<!-- Animated Code Block -->
+
+```python
+class CyberSecurityJourney:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Cybersecurity Researcher"
+        self.language_spoken = ["Python", "Bash", "PowerShell"]
+        self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's make the cyber world safer together!")
+
+me = CyberSecurityJourney()
+me.say_hi()
+```
 
 > *"In the depths of code lies the path to digital enlightenment"* 
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀
@@ -63,21 +81,7 @@ Feel free to explore and subscribe to stay updated on my **fight and mission on 
 
 </div>
 
-<!-- Animated Code Block -->
-```python
-class CyberSecurityJourney:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Cybersecurity Researcher"
-        self.language_spoken = ["Python", "Bash", "PowerShell"]
-        self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's make the cyber world safer together!")
 
-me = CyberSecurityJourney()
-me.say_hi()
-```
 
 ## 🚀 Tech Stack & Tools
 
