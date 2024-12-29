@@ -118,3 +118,4 @@ me.say_hi()
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=SYSTEM+STATUS%3A+ONLINE" alt="Footer Status" />
 </div>
+<img src="YOUR-HOSTED-SVG-URL" width="100%" alt="Cyberpunk Footer" />
