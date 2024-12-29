@@ -24,7 +24,6 @@
 </div>
 
 
-
 # 🌐 Cybersecurity Chronicles: A Digital Awakening ⚡
 
 <!-- Animated Code Block -->
@@ -62,12 +61,6 @@ Guided by **Mahavatar Babaji**, spiritual mentor to innovators including Bill Ga
 - 🌐 Digital Innovation
 
 ## 💫 Self-Made Success
-```bash
-$ ./achievements.sh
-> Self-taught coding prodigy
-> PayPal vulnerability discoveries
-> Microsoft security contributions
-> Built cybersecurity platform on Android/Termux
 
 ## Website Highlights  
 The website, [**kalkikrivadna.com**](https://kalkikrivadna.com), focuses on:  
@@ -77,7 +70,6 @@ The website, [**kalkikrivadna.com**](https://kalkikrivadna.com), focuses on:
 - Cybersecurity tools, scripts, and solutions  
 
 Feel free to explore and subscribe to stay updated on my **fight and mission on Earth**.
-
 
 </div>
 
@@ -123,9 +115,11 @@ Feel free to explore and subscribe to stay updated on my **fight and mission on 
 [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/JLAduY4zgzk?si=CE6sRE_lxyXaBn5T)
 
 ### 🛡️ Security Achievements
-- Discovered vulnerabilities in PayPal and Microsoft platforms
-- Developed comprehensive fingerprinting, network security tools
-- Built my website using just an Android tablet with Termux!
+- Self-taught coding prodigy
+- PayPal vulnerability discoveries
+- Microsoft security contributions
+- Built cybersecurity platform on Android tablet using Termux
+
 
 <a href="https://kalkikrivadna.com">
 <img src="https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
