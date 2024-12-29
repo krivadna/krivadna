@@ -42,12 +42,12 @@ me.say_hi()
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/jUzaB82LbUA?si=diLc56v_Bkr-Qx1S)
 
-In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming would be my calling** 🚀 My journey ignited with an AI-powered narrative:
+In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming and coding would be my calling** 🚀 My journey ignited with an AI-powered videos and short films:
 
-One of my first creations was an AI short film titled:**"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖 This creation opened doors I never imagined:
+One of my first creations in cybersecurity was an AI short film titled:**"Xenon: A Malevolent AI vs Aura, His Adversary"** 🤖 This creation opened doors I never imagined:
 
-- 🎯I was Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook
-- 🎥 Commissioned to produce an **AI film** for the United States Air Force for their annual **Capture The Flag (CTF)** competition.
+- 🎯I was Discovered by **USAF Cybersecurity Department** through LinkedIn & Facebook who was looking for something similar and called me SME (subject matter expert)
+- 🎥 Impressed by my work, he Commissioned me to create an **AI film** for the United States Air Force for their annual **Capture The Flag (CTF)** competition for Military and Cybersecurity unit.
 
   
 <!-- Divider -->
