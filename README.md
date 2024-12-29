@@ -1,6 +1,5 @@
                     # ✨ My Cybersecurity Journey ✨
 
-                    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing;Building+the+Future+with+Code)](https://git.io/typing-svg)
 <!-- Animated Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -111,5 +110,5 @@ me.say_hi()
 
 <!-- Animated Footer -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning%2C+Always+Growing;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-</div>
