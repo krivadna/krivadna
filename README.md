@@ -1,12 +1,13 @@
 <div align="center">
 
 # ✨ My Cybersecurity Journey ✨
-<img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete" alt="Matrix Footer"/>
+
 <p align="center">
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
   [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)
 [![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
+<img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Initializing+Code...;Loading+Matrix+Data...;Executing+Programs...;Footer+Complete" alt="Matrix Footer"/>
 </p>
 </div>
 
