@@ -121,7 +121,6 @@ Guided by **Immortal Mahavatar Babaji**, the initiator, Guru of jesus christ, ma
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com)
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/k4BwT5cw2gs?si=HJp8quq3DgyAKvIB)
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
