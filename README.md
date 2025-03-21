@@ -40,7 +40,7 @@ me.say_hi()
 
 ## 🎬 Genesis: The Beginning
 
-[![Watch on Vimeo](https://img.shields.io/badge/Watch_-YouTube-red?style=for-the-badge&logo=youtube)](https://vimeo.com/902656649)
+[![Watch on Vimeo](https://img.shields.io/badge/Watch_-Vimeo-red?style=for-the-badge&logo=youtube)](https://vimeo.com/902656649)
 
 In **2024**, I embarked on a cybersecurity odyssey, guided by divine inspiration that **programming and coding would be my calling** 🚀 My journey ignited with an AI-powered videos and short films:
 
