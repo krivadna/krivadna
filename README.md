@@ -97,6 +97,8 @@ Guided by **Immortal Mahavatar Babaji**, the initiator, Guru of jesus christ, ma
 
 ## 💫 Self-Made Success
 
+Coded my website completely on Termux for android using an android tablet using apache as reverse proxy.
+
 ### USAF: AI Film Project
 [![Watch on Vimeo](https://img.shields.io/badge/Watch_-Vimeo-red?style=for-the-badge&logo=youtube)](https://vimeo.com/902656649)
 
