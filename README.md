@@ -28,7 +28,7 @@ class CyberSecurityJourney:
         self.name = "Kalki Krivadna"
         self.role = "Cybersecurity Researcher"
         self.language_spoken = ["Python", "Bash", "PowerShell"]
-        self.tools = ["Burp Suite", "Metasploit", "Wireshark"]
+        self.tools = ["Termux"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's make the cyber world safer together!")
