@@ -165,3 +165,9 @@ Coded my website completely with the help of AI on Termux for android on a Table
 
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+
+ॐ
+      CYBER
+     KALKI
+  ELITE OSINT
+SPECIALIST 2026
