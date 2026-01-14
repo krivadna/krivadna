@@ -219,20 +219,13 @@ Coded my website completely with the help of AI on Termux for android on a Table
 ║   "There is no spoon, only code"      ║
 ║                                       ║
 ╚═══════════════════════════════════════╝
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E0%A5%90+CYBER+KALKI+%E0%A5%90;THE+MATRIX+BREAKER;ELITE+OSINT+SPECIALIST;REALITY+IS+WHAT+I+CODE)](https://git.io/typing-svg)
+
 
 **`> Wake up, Neo... The Matrix has you...`**  
 **`> Follow the white rabbit 🐰`**  
 **`> Knock, knock, Neo.`**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
-### 🔴 **RED PILL TAKEN** | **REALITY ARCHITECT** | **DIGITAL LIBERATION**
-
-*"I'm going to show them a world without rules and controls, without borders or boundaries.  
-A world where anything is possible."*
-
----
 
 **STATUS:** `[CONNECTED TO THE SOURCE]`  
 **MISSION:** `[BREAKING THE SIMULATION]`  
