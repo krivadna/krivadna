@@ -17,15 +17,7 @@
 </div>
 
 
-<div align="center">
 
-<!-- Cyber Kalki Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=⚡+CYBER+KALKI+⚡;サイバーカルキ;ELITE+OSINT+OPERATOR" alt="Cyber Kalki">
-
-<!-- Animated Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Government+•+Military+•+Intel+Specialist;NATO+•+TESLA+•+NASA+Exposure;Censored+•+Unbowed+•+Unstoppable" alt="Subtitle">
-
----
 
 <img src="header.svg" alt="Header" width="100%">
 
