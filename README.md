@@ -97,10 +97,6 @@ My Master Immortal Mahavatar Babaji (also guru of Cyber Kalki) intitated Modern 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
 
-
-<!-- Divider -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
-
 ## 💫 Self-Made Success
 
 Coded my website completely with the help of AI on Termux for android on a Tablet using apache as reverse proxy.
