@@ -31,16 +31,7 @@
 
 ![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
----
 
-### 🔥 **CYBER KALKI** - *Truth Cannot Be Silenced* 🔥
-
-[![GitHub](https://img.shields.io/github/followers/krivadna?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff00)](https://github.com/krivadna)
-[![Views](https://komarev.com/ghpvc/?username=krivadna&color=red&style=for-the-badge&label=VIEWS)](https://github.com/krivadna)
-
-**🚫 BANNED ON:** Intigriti • YesWeHack • Medium • HackerOne
-
-</div>
 
 # 🌐 Digital Awakening ⚡
 
