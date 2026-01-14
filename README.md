@@ -17,14 +17,6 @@
 </div>
 
 
-
-
-<img src="header.svg" alt="Header" width="100%">
-
-![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-
-
 # 🌐 Digital Awakening ⚡
 
 > *"In the depths of code lies the path to digital enlightenment"*
