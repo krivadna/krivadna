@@ -23,21 +23,40 @@
 
 > *"In the depths of code lies the path to digital enlightenment"*
 
-```python
+## 👨‍💻 `whoami`
 
-class CyberSecurityJourney:
-    def __init__(self):
-        self.name = "Kalki Krivadna"
-        self.role = "Cybersecurity Researcher"
-        self.language_spoken = ["Python", "Bash", "PowerShell"]
-        self.tools = ["Termux"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's make the cyber world safer together!")
+<table>
+<tr>
+<td width="50%">
 
-me = CyberSecurityJourney()
-me.say_hi()
+```bash
+root@kalki:~# cat profile.sh
+#!/bin/bash
+
+echo "╔════════════════════════════════════╗"
+echo "║   CYBER KALKI - THE ONE           ║"
+echo "╚════════════════════════════════════╝"
+echo ""
+echo "👤 Role: The Neo of Cyber Warfare"
+echo "🎯 Focus: Red Pill Reality | Matrix Breaker"
+echo "🌐 Domain: Digital Rebellion & Liberation"
+echo "⚡ Status: [UNPLUGGED - FREE MIND]"
+echo "💊 Choice: Red Pill Taken"
+echo ""
+echo "Mission: 'I know Kung Fu... and every"
+echo "         exploit in the digital matrix.'"
+echo ""
+echo "There is no spoon. There is no firewall."
 ```
+
+</td>
+<td width="50%">
+
+<img alt="Hacking GIF" width="100%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+</td>
+</tr>
+</table>
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
