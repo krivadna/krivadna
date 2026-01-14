@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=18&duration=3000&pause=0&color=00FF00&width=1000&height=60&lines=Initializing+Code...;Loading+Cyber+Kalki+Matrix+...;Executing+Programs...;Algorithm+Complete" alt="Matrix">
 </div>
 <p align="center">
-  <img src="header.svg" alt="Cybersecurity Journey">
+  <img src="header.svg" alt="Cyber Kalki Journey">
 </p>     
 <div align="center">
 
