@@ -107,10 +107,12 @@ My Master Immortal Mahavatar Babaji (also guru of Cyber Kalki) intitated Modern 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
-
 ## 🛠️ **CYBER ARSENAL**
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -125,6 +127,8 @@ My Master Immortal Mahavatar Babaji (also guru of Cyber Kalki) intitated Modern 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
