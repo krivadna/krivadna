@@ -149,7 +149,7 @@ Coded my website completely with the help of AI on Termux for android on a Table
 **📛 Profile suspended/shadow-banned | 📄 Reports erased | 🔇 Truth suppressed*
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
 
 
 <!-- Footer -->
