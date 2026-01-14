@@ -204,27 +204,6 @@ Coded my website completely with the help of AI on Termux for android on a Table
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
 
 <div align="center">
-╔═══════════════════════════════════════╗
-║                                       ║
-║              ॐ                        ║
-║                                       ║
-║          C Y B E R                    ║
-║          K A L K I                    ║
-║                                       ║
-║      ELITE OSINT SPECIALIST           ║
-║                                       ║
-║   ━━━ MATRIX BREAKER ━━━              ║
-║          [ 2 0 2 6 ]                  ║
-║                                       ║
-║   "There is no spoon, only code"      ║
-║                                       ║
-╚═══════════════════════════════════════╝
-
-
-**`> Wake up, Neo... The Matrix has you...`**  
-**`> Follow the white rabbit 🐰`**  
-**`> Knock, knock, Neo.`**
-
 
 
 **STATUS:** `[CONNECTED TO THE SOURCE]`  
