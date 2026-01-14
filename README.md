@@ -17,6 +17,31 @@
 </div>
 
 
+<div align="center">
+
+<!-- Cyber Kalki Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=⚡+CYBER+KALKI+⚡;サイバーカルキ;ELITE+OSINT+OPERATOR" alt="Cyber Kalki">
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Government+•+Military+•+Intel+Specialist;NATO+•+TESLA+•+NASA+Exposure;Censored+•+Unbowed+•+Unstoppable" alt="Subtitle">
+
+---
+
+<img src="header.svg" alt="Header" width="100%">
+
+![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🔥 **CYBER KALKI** - *Truth Cannot Be Silenced* 🔥
+
+[![GitHub](https://img.shields.io/github/followers/krivadna?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff00)](https://github.com/krivadna)
+[![Views](https://komarev.com/ghpvc/?username=krivadna&color=red&style=for-the-badge&label=VIEWS)](https://github.com/krivadna)
+
+**🚫 BANNED ON:** Intigriti • YesWeHack • Medium • HackerOne
+
+</div>
+
 # 🌐 Digital Awakening ⚡
 
 > *"In the depths of code lies the path to digital enlightenment"*
