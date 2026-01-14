@@ -86,11 +86,7 @@ Guided by **Immortal Mahavatar Babaji**, the initiator, Guru of jesus christ, ma
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krivadna&show_icons=true&theme=radical)
 
-## 📈 Contribution Graph
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krivadna&theme=radical)](https://github.com/krivadna)
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
