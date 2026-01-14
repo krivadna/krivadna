@@ -64,6 +64,12 @@ Guided by **Immortal Mahavatar Babaji**, the initiator, Guru of jesus christ, ma
 - 💻 Supercomputing Evolution
 - 🌐 Digital Innovation
 
+My Master Immortal Mahavatar Babaji intitated Modern Day scientist from Einstein to Steve jobs to Bill Gates
+
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-282828?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtu.be/JB06dgR43nI?si=dgxwYbgA8BlFPe0W)
+
+https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE
+
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
 
