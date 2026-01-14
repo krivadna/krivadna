@@ -122,6 +122,31 @@ Coded my website completely with the help of AI on Termux for android on a Table
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
+## ⚠️ PLATFORM THAT CENSORED ME  ⚠️
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Intigriti-BANNED-critical?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xMiA5VjEzIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxNyIgcj0iMSIgZmlsbD0id2hpdGUiLz4KPC9zdmc+" alt="Intigriti Banned"/>
+<br/><b>BANNED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/YesWeHack-BANNED-critical?style=for-the-badge&logo=hackaday&logoColor=white" alt="YesWeHack Banned"/>
+<br/><b>BANNED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Medium-SUPPRESSED-critical?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Suppressed"/>
+<br/><b>SUPPRESSED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/HackerOne-BANNED-critical?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Banned"/>
+<br/><b>BANNED</b>
+</td>
+</tr>
+</table>
+
+**📛 Profile suspended/shadow-banned | 📄 Reports erased | 🔇 Truth suppressed*
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
