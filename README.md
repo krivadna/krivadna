@@ -22,9 +22,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-  [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
+[![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
   
-</div>
+
 
 <!-- Divider -->
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
