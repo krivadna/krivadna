@@ -11,7 +11,17 @@
 ![Matrix Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&width=500&lines=Cybersecurity+Researcher;Bug+Hunter;AI+%26+Security+Enthusiast)
 </div>
+
   
+<div align="center">
+
+### **Elite OSINT Specialist | Ethical Hacker | Cyber Warfare Domain**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%95%89%EF%B8%8F+THE+FINAL+AVATAR+OF+DIGITAL+DOOMSDAY+%E2%9A%94%EF%B8%8F;%E0%A5%90+%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BF+%D8%A7%D9%8E%D9%84%D9%84%D9%91%D9%B0%D9%87%D9%8F+%7C+Illuminating+Cyber+Shadows)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
   [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
   
 </div>
